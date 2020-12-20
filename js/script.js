@@ -11,7 +11,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["We Have an Exclusive Team", 'We Handle Marriage Functions', 'We Handle Birthday Events', 'We Manage Parties and All Events'],
+    strings: ["We Have an Exclusive Team", 'We Handle Anniversary Functions', 'We Handle Birthday Events','We also do Car Decorations', 'We Manage Parties and All Events'],
     loop: true
 });
 
