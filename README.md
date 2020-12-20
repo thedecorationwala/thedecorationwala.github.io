@@ -1,1 +1,1 @@
-# thedecorationwala.github.io
+# thedecorationwala.com
